@@ -1,0 +1,28 @@
+{
+  "rules": {
+    "class-name": true,
+    "comment-format": [
+      true,
+      "check-space"
+    ],
+    "indent": [
+      true,
+      "spaces"
+    ],
+    "no-var-keyword": true,
+    "quotemark": [
+      true,
+      "double",
+      "avoid-escape"
+    ],
+    "semicolon": [
+      true,
+      "always",
+      "ignore-bound-class-methods"
+    ],
+    "no-internal-module": true,
+    //        "no-null-keyword": true,
+    "prefer-const": true,
+    "jsdoc-format": true
+  }
+}

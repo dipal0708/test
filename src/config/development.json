@@ -1,0 +1,12 @@
+{
+  "port": 3000,
+  "db": {
+    "url": "mongodb://localhost:27017",
+    "name": "node-sample"
+  },
+  "test": {
+    "port": 5858,
+    "dbName": "node-sample-tests",
+    "url": "http://localhost"
+  }
+}
