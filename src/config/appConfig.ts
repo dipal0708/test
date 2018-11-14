@@ -8,4 +8,4 @@ nconf.argv()
     .env()
     .file({ file: "src/config/"+currentEnv+".json" });
 export default nconf;
-/*this is the testxcfg212dfg*/
+/*this is the test*/
